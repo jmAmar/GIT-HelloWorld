@@ -4,6 +4,9 @@
 ## HelloWorld.py ##
 
 str = "! Hello World !"
-print(str)
+print("\n"+str)
+
+str = input("\nbonjour qui\t? ")
+print("bonjour ...\t: " +str)
 
 ##
