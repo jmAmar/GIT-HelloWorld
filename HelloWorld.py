@@ -6,7 +6,4 @@
 str = "! Hello World !"
 print("\n"+str)
 
-str = input("\nbonjour qui\t? ")
-print("bonjour ...\t: " +str)
-
 ##
